@@ -1,0 +1,106 @@
+body {
+    height: 2050px; 
+    background: rgb(37, 37, 37);
+}
+
+/*DIV 1*/
+#div1 {
+    position: relative;
+    border: 2px solid gray; 
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: rgb(204, 204, 197);
+    height: 530px;
+}
+
+#cikk1kep {
+    width: 70%;
+    height: 70%;
+    position: relative;
+    border-radius: 10px;
+    float: none;
+    margin-left: 15%;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+#cikk1text {
+    text-align: justify;
+    font-size: large;
+}
+
+/*DIV 2*/
+
+#div2 {
+    position: relative;
+    border: 2px solid gray; 
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: rgb(204, 204, 197);
+    height: 560px;
+}
+
+#cikk2kep {
+    width: 70%;
+    height: 70%;
+    position: relative;
+    border-radius: 10px;
+    float: none;
+    margin-left: 15%;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+/*DIV 3*/
+
+#div3 {
+    position: relative;
+    border: 2px solid gray; 
+    border-radius: 5px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 5%;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    background-color: rgb(204, 204, 197);
+    height: 560px;
+}
+
+#cikk3kep {
+    width: 70%;
+    height: 70%;
+    position: relative;
+    border-radius: 10px;
+    float: none;
+    margin-left: 15%;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+/*ANNOUNCEMENT*/
+#an1 {
+    position: fixed;
+    bottom: 3px;
+    border: 3px solid red; 
+    padding-left: 2px;
+    padding-right: 2px;
+    height: 5%;
+    padding-bottom: 2px;
+    background-color: rgba(161, 70, 70, 0.712);
+    border-radius: 10px;
+}
+
